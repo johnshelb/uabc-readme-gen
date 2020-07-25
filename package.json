@@ -18,5 +18,9 @@
     "url": "https://github.com/jakekelly44/readme-generator/issues"
   },
   "homepage": "https://github.com/jakekelly44/readme-generator#readme",
-  "description": ""
+  "description": "## Description",
+  "directories": {
+    "doc": "doc"
+  },
+  "devDependencies": {}
 }
