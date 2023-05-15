@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 # ${data.projectName}
 
 ## Summary
-![badge](https://img.shields.io/badge/license-${data.license}-blue)<br />
+![badge](https://img.shields.io/badge/license-${data.license}-blue)
 ${data.summary}
 
 ## Table of Contents
@@ -27,7 +27,7 @@ ${data.functionality}
 ${data.credits}
 
 ## License
-This application is covered by the ${data.license} license. 
+This application is covered by the ${data.license} license.
 <br />
 ![badge](https://img.shields.io/badge/license-${data.license}-blue)
 
@@ -35,10 +35,10 @@ This application is covered by the ${data.license} license.
 ${data.testFunctions}
 
 ## Questions
-Follow me on Github: [${data.user}](https://github.com/${data.user})
+Follow me on Github [${data.user}](https://github.com/${data.user})
 <br />
 <br />
-Email me with any questions: ${data.email}
+Email me with any questions: [${data.email}](mailto:${data.email})
 `;
 }
 

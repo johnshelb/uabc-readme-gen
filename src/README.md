@@ -1,10 +1,10 @@
 
 
-# This is a test title. 
+# undefined
 
 ## Summary
-![badge](https://img.shields.io/badge/license-MIT-blue)<br />
-This is test output! Summary Summary Summary. 
+![badge](https://img.shields.io/badge/license-undefined-blue)
+undefined
 
 ## Table of Contents
 - [Description](#description)
@@ -16,24 +16,24 @@ This is test output! Summary Summary Summary.
 - [Questions](#questions)
 
 ## Installation
-One would clone the repo, run npm init, and then npm install inquirer. 
+undefined
 
 ## Functionality
-This application generates a readme using markdown language
+undefined
 
 ## Credits
-None
+undefined
 
 ## License
-This application is covered by the MIT license. 
+This application is covered by the undefined license.
 <br />
-![badge](https://img.shields.io/badge/license-MIT-blue)
+![badge](https://img.shields.io/badge/license-undefined-blue)
 
 ## Tests
-Just run node index.js and see if it functions 
+undefined
 
 ## Questions
-Follow me on Github: [jakekelly44](https://github.com/jakekelly44)
+Follow me on Github [undefined](https://github.com/undefined)
 <br />
 <br />
-Email me with any questions: email@email.com
+Email me with any questions: [johnshelby@yahoo.com](mailto:johnshelby@yahoo.com)
