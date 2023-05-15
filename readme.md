@@ -81,7 +81,7 @@ SOFTWARE.
 
 Please use the following link to view a test output of the application's function: [Generated README](src/README.md "README Test Output")
 
-Please use the following link to download the application demo video: [Application Demo](doc/readme_gen_mp4.mp4 "README Generator Video")
+Please use the following link to download the application demo video: [Application Demo] (doc/readme_gen_mp4.mp4 "README Generator Video")
 
 
 
